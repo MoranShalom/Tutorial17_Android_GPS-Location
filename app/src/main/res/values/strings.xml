@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">GPS Location and sensors</string>
+    <string name="Am_I_close">Am I close</string>
+    <string name="here">here</string>
+    <string name="hotter">hotter</string>
+    <string name="colder">colder</string>
+    <string name="start">start</string>
+
+
+</resources>
